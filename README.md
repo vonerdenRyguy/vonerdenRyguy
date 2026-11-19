@@ -12,7 +12,7 @@ You can reach me at rchrisvon@gmail.com.
 
 **[D&D Character Creator](https://github.com/vonerdenRyguy/D-D-Character-Creation)** is a web app for making D&D characters that I built with a team for my software engineering class. You can [try it here](https://vonerdenryguy.github.io/D-D-Character-Creation/src/welcomePage.html).
 
-**[Pokedex](https://github.com/vonerdenRyguy/Pokedex_Project)** is a Java Swing app that pulls Pokemon data from a MySQL database. You can search, look at stats, build a party, and take a quiz.
+**[Pokedex](https://github.com/vonerdenRyguy/Pokedex_Project)** is a Java Swing app that pulls Pokemon data from a MySQL database. You can search, look at stats, build a party, and take a quiz. There's also a web version you can [try here](https://vonerdenryguy.github.io/Pokedex_Project/).
 
 #### Languages and tools
 
